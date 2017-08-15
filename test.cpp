@@ -4,10 +4,6 @@
 #include <vector>
 using namespace std;
 //this is a file for test of cppcode
-//change from github_web
-//another change
-//here we go
-
 struct TreeNode{
   int val;
   TreeNode * left;
